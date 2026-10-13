@@ -1,0 +1,6 @@
+{
+  "name": "Football Tactics Board",
+  "description": "Interactive football tactics board with 2D pitch, draggable players, ball, and animated movement phase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
